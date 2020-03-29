@@ -1,4 +1,4 @@
-# Data Analysis Practice 
+# Data Analysis Practice - *Readme in progress*
 
 ## Overview
 
@@ -48,7 +48,7 @@ Do note:
 
 ## Table of Contents
 
-[Description/Overview](#overview) | [GitHub Link](#github-link) | [Table of Contents](#table-of-contents) | [Technologies](#skills-and-technologies) | [Results](#Results)
+[Description/Overview](#overview) | [GitHub Link](#github-link) | [Table of Contents](#table-of-contents) | [Technologies](#skills-and-technologies) | [Results](#results) | [Conclusions](#conclusions)
 
 
 ## Skills and Technologies
@@ -70,8 +70,9 @@ The following skills and technologies were used:
    
    * Jupyter Notebook/Google Colab
    
-
 ## Results
+
+## Conclusions
 Economy, health and family have the highest impact on a country's happiness score. Freedom and dystopia residual have moderate impacts while Trust and Generosity are the least impactful on a country's happiness score. 
 
 *   Economy: If you live in a country with a better economy, you have more freedom and more access to resources to accomplish goals. You have more comfort as well leading to more happiness. 

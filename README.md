@@ -1,4 +1,4 @@
-# Data Analysis Practice - *Readme in progress*
+# Data Analysis Practice 
 
 ## Overview
 

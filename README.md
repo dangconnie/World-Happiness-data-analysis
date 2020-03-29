@@ -72,3 +72,18 @@ The following skills and technologies were used:
    
 
 ## Results
+Economy, health and family have the highest impact on a country's happiness score. Freedom and dystopia residual have moderate impacts while Trust and Generosity are the least impactful on a country's happiness score. 
+
+*   Economy: If you live in a country with a better economy, you have more freedom and more access to resources to accomplish goals. You have more comfort as well leading to more happiness. 
+
+*   Health: If you are healthy, you face less day to day struggles, which may put you farther and farther away from happiness. A strong health system promotes happiness because people in general are not worried about sickness creating strain on their life. There is a system in place to accomodate those that have to use the system to maintain normalcy. That said, it has to be a GOOD system that promotes health across the board, and it has to be a system that is easy to access for those who need it.
+
+*   Family: If you have support from your family, you are able to accomplish more. You need to feel safe and supported and not in survival mode. On a larger scale, comfort comes from having a good infrastructure that supports having a family and being able to maintain it. A good economy helps support good health which in turn allows family members to live longer and growing the support system for the individual as a result.
+
+*   Freedom: If you have freedom, you get to choose what you want to do versus being told what to do and how long you have to do it for. The less restricted you are, the more of an architect you are for your own story. Money provides more opportunities and resources for personal happiness but money in the absence of freedom is more frustration in that you are not able to do what you want.
+
+*   Dystopia residual: Not sure about this one. I don't have a good enough understanding of it to properly draw a conclusion on how it ties in to the results. We rather compare ourselves to a less fortunate society than to trust our government or have a generous society to feel better.
+
+*   Trust: Humans are social creatures that strive to build relationships with others. If you live/work in a place with distrust, your ability to build relationships there are stunted.According to Maslow's Hierarchy of Needs, you will need to fill the bottom tiers before moving on to the higher ones, one of which includes personal happiness. In a survivalist mindset, trust doesn't make it to the top 2 factors. If I am paid and healthy at least, I can survive. Just because I can trust people doesn't mean I can get as far as I can with money and health. I also can't trust the government to provide for me if our economy is not in a good state. As a result, trust wouldn't be that much of a factor in my happiness.
+
+*   Generosity: As a humans, we are selfish. We often give to others to make ourselves feel better. As a result, it doesn't appear that generosity has much influence on a country's overall happiness. 

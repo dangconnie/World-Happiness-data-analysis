@@ -1,4 +1,4 @@
-# World Happiness Data Analysis Practice - *Readme in progress*
+# World Happiness - *Readme in progress*
 
 ## Overview
 
